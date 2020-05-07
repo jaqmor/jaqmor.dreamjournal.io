@@ -1,16 +1,16 @@
 #journal{
 	font-family: "Lucida Console";
-	text-align: center;
 }
 
 .header{
-
 
 }
 .desc{
 
 }
 
-.entry1{
-	margin: 20px;
+.entry{
+	text-align: center;
+	padding: 30px;
+
 }
