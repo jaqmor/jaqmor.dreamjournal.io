@@ -1,17 +1,17 @@
 #journal{
-	font-family: "Courier New";
+	font-family: "Lucida Console";
 	text-align: center;
-	margin: 100px;
+	padding: 20px;
 }
-#journal:hover{
-	font-family: "Times New Roman";
-}
+
 .header{
+
 
 }
 .desc{
 
 }
+
 .entry1{
 
 }
