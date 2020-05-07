@@ -1,6 +1,10 @@
 #journal{
 	font-family: "Courier New";
 	text-align: center;
+	margin: 100px;
+}
+#journal:hover{
+	font-family: "Times New Roman";
 }
 .header{
 
