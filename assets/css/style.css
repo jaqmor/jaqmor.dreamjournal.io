@@ -1,6 +1,5 @@
 #journal{
 	font-family: "Courier New";
-	position: relative;
 }
 
 .header{
@@ -13,6 +12,5 @@
 .entry{
 	text-align: center;
 	margin: 25px 50px;
-	position: absolute;
 
 }
