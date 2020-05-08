@@ -1,6 +1,5 @@
 #journal{
 	font-family: "Courier New";
-	position: relative;
 	padding: 10px;
 
 }
@@ -12,38 +11,6 @@
 
 }
 
-.entry1{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-
-}
-.entry2{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-
-}
-.entry3{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-
-}
-.entry4{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-
-}
-.entry5{
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-
+.entry{
+	text-align: center;
 }
