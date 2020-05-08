@@ -1,11 +1,10 @@
 #journal{
 	font-family: "Courier New";
-	position: relative;
-	margin-left: 25px;
-	margin-top: 25px;
 }
 
 .header{
+	margin-left: 25px;
+	margin-top: 25px;
 
 }
 .desc{
@@ -14,7 +13,6 @@
 
 .entry{
 	text-align: center;
-	position: absolute;
 	padding: 10px;
 
 }
