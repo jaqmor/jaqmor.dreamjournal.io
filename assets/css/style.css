@@ -19,23 +19,23 @@ body {
 	max-width: 700;
     padding: 1rem;
 }
-.limb:{}
-.limb:hover{
+
+a.limb:hover{
 	color: #ffa07a;
 	font-weight: bolder;
 }
-.car{}
-.car:hover{
+
+a.car:hover{
 	color:#DC143C;
 	font-weight: bolder;
 }
-.man{}
-.man:hover{
+
+a.man:hover{
 	color:#bdb76b;
 	font-weight: bolder;
 }
-.happy{}
-.happy:hover{
+
+a.happy:hover{
 	color:#ffd700;
 	font-weight: bolder;
 }
