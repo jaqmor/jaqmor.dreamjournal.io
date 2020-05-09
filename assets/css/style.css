@@ -19,12 +19,12 @@ body {
 	max-width: 700;
     padding: 1rem;
 }
-
+.limb:{}
 .limb:hover{
 	color: #ffa07a;
 	font-weight: bold;
 }
-
+.car{}
 .car:hover{
 	color:#dc143c
 	font-weight: bold;
