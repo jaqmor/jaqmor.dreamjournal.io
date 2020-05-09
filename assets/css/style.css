@@ -22,12 +22,22 @@ body {
 .limb:{}
 .limb:hover{
 	color: #ffa07a;
-	font-weight: bold;
+	font-weight: bolder;
 }
 .car{}
 .car:hover{
-	color:#dc143c
-	font-weight: bold;
+	color:#DC143C;
+	font-weight: bolder;
+}
+.man{}
+.man:hover{
+	color:#bdb76b;
+	font-weight: bolder;
+}
+.happy{}
+.happy:hover{
+	color:#ffd700;
+	font-weight: bolder;
 }
 
 
