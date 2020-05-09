@@ -22,8 +22,12 @@ body {
 
 .limb:hover{
 	color: #ffa07a;
+	font-weight: bold;
 }
-.limb:visited{
-	color: #ffa07a;
+
+.car:hover{
+	color:#dc143c
+	font-weight: bold;
 }
+
 
