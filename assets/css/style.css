@@ -1,10 +1,11 @@
 body {
   font-size: clamp(15px, 2vw, 5px);
+  margin-left: 75px;
 } 
 
 #journal{
 	font-family: "Courier New";
-    padding: 2rem;
+    padding: 3rem;
 }
 
 .header{
@@ -17,6 +18,12 @@ body {
 .entry{
 	max-width: 700;
     padding: 1rem;
-    margin: 0 auto;
+}
+
+.limb:hover{
+	color: #ffa07a;
+}
+.limb:visited{
+	color: #ffa07a;
 }
 
