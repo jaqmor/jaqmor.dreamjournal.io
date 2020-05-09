@@ -1,5 +1,5 @@
 body {
-  font-size: clamp(8px, 2vw, 11px);
+  font-size: clamp(12px, 3vw, 22px);
 } 
 
 #journal{
