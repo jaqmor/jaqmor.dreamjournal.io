@@ -9,9 +9,13 @@ body {
 }
 
 .header{
+	max-width: 700;
+    padding: 1rem;
 
 }
 .desc{
+	max-width: 700;
+    padding: 1rem;
 
 }
 
